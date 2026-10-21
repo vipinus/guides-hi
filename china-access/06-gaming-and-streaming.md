@@ -23,4 +23,4 @@ Douyin, Kuaishou, Douyu और Huya विदेशी IP पर अलग-अ�
 चीनी सर्वर वाले गेम असली नाम से वेरिफ़िकेशन (real-name verification) माँगते हैं। यह खाते के स्तर की शर्त है जिसका IP से कोई लेना-देना नहीं, और IP बदलने से यह हल नहीं होती।
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=china-access-06) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=china-access-06) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=china-access-06) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=china-access-06) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को 15-15 अंक (व्यक्तिगत प्लान के लगभग 15 दिन) मिलते हैं, यह ऑफ़र लगातार चलता है

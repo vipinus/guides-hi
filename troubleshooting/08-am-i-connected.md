@@ -96,4 +96,4 @@ Cisco, Hiddify, प्रॉक्सी और OpenVPN पेजों पर �
 - [चीन के बाहर Tencent Video कॉपीराइट की रोक का संदेश दिखाए, तो क्या करें](https://www.leotun.com/hi/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=troubleshooting-08) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-08) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=troubleshooting-08) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-08) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को 15-15 अंक (व्यक्तिगत प्लान के लगभग 15 दिन) मिलते हैं, यह ऑफ़र लगातार चलता है

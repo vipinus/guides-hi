@@ -54,4 +54,4 @@
 वेब पेज पर आप देख सकते हैं कि अभी कितने डिवाइस ऑनलाइन हैं और हर एक किस प्रकार का है, और इससे पता लगा सकते हैं कि कहीं कोई बंद करना तो नहीं भूल गए।
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=troubleshooting-07) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-07) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=troubleshooting-07) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-07) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को 15-15 अंक (व्यक्तिगत प्लान के लगभग 15 दिन) मिलते हैं, यह ऑफ़र लगातार चलता है

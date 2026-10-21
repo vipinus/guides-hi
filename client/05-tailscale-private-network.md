@@ -37,4 +37,4 @@
 - UDP पर रोक लगाने वाले कैंपस / दफ़्तर के नेटवर्क पर: WireGuard UDP पर चलता है, इसलिए वहाँ वह सिर्फ़ Tailscale के रिले से ही जा पाता है, जो बहुत धीमा है; AnyConnect पर जाएँ।
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=client-05) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=client-05) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=client-05) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=client-05) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को 15-15 अंक (व्यक्तिगत प्लान के लगभग 15 दिन) मिलते हैं, यह ऑफ़र लगातार चलता है

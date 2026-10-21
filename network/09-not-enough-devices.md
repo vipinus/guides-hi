@@ -56,4 +56,4 @@
 इस लेख का वेबसाइट वाला संस्करण (हिंदी में भी): https://www.leotun.com/hi/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=network-09) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=network-09) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर भुगतान करने वाले हर दोस्त पर आप दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, इस ऑफ़र की कोई अंतिम तारीख़ नहीं है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=network-09) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=network-09) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर भुगतान करने वाले हर दोस्त पर आप दोनों को 15-15 अंक (व्यक्तिगत प्लान के लगभग 15 दिन) मिलते हैं, इस ऑफ़र की कोई अंतिम तारीख़ नहीं है
