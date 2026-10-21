@@ -42,4 +42,4 @@ Cisco ने इसका नाम बदलकर Cisco Secure Client कर �
 **क्या लंबे समय तक जुड़े रहने पर यह अपने-आप कट जाता है?** समय की वजह से नहीं। खाते की अवधि ख़त्म होने पर सर्वर आपको डिस्कनेक्ट करता है; रिन्यू करें और फिर से कनेक्ट करें।
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=overseas-access-02) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=overseas-access-02) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 24 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=overseas-access-02) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=overseas-access-02) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है

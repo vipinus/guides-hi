@@ -2,7 +2,7 @@
 
 > वेबसाइट वाला संस्करण (ज़्यादा विस्तार से): https://www.leotun.com/hi/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-[संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-05) पर तीन सपोर्ट ग्रुप (QQ, Telegram, Discord), सपोर्ट का ईमेल पता और इंसानी सपोर्ट का QQ खाता दिए गए हैं। तीनों ग्रुप में AI सपोर्ट एजेंट "SpongeBob" (स्पंजबॉब; QQ पर इसका चीनी नाम 海绵宝宝 है) 24 घंटे मौजूद रहता है, और ग्रुप के मालिक और इंसानी सपोर्ट स्टाफ़ भी वहीं हैं। कैसे पूछें कि वह सबसे सटीक जवाब दे, यह [10](10-ask-ai-support.md) में देखें।
+[संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-05) पर तीन सपोर्ट ग्रुप (QQ, Telegram, Discord), सपोर्ट का ईमेल पता और इंसानी सपोर्ट का QQ खाता दिए गए हैं। तीनों ग्रुप में AI सपोर्ट एजेंट "SpongeBob" (स्पंजबॉब; QQ पर इसका चीनी नाम 海绵宝宝 है) 4 घंटे मौजूद रहता है, और ग्रुप के मालिक और इंसानी सपोर्ट स्टाफ़ भी वहीं हैं। कैसे पूछें कि वह सबसे सटीक जवाब दे, यह [10](10-ask-ai-support.md) में देखें।
 
 ## तीन में से कौन-सा ग्रुप चुनें
 
@@ -36,4 +36,4 @@
 - ग्रुपों में कॉन्फ़िगरेशन फ़ाइलें, QR कोड या सब्सक्रिप्शन लिंक पोस्ट न करें; ये आपके खाते के बराबर हैं।
 
 ---
-[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=troubleshooting-05) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-05) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 24 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
+[LeoTun](https://www.leotun.com/hi?utm_source=github&utm_content=troubleshooting-05) टीम द्वारा संकलित · कोई सवाल? [संपर्क पेज](https://www.leotun.com/hi/contact?utm_source=github&utm_content=troubleshooting-05) देखें (ग्रुप, ईमेल और सपोर्ट सब वहीं हैं) · साइन-अप करें और 4 घंटे का मुफ़्त ट्रायल लें; आपके न्योते पर कोई दोस्त भुगतान करे तो दोनों को व्यक्तिगत प्लान के 20 दिन मिलते हैं, यह ऑफ़र लगातार चलता है
